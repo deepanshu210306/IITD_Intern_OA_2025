@@ -2,11 +2,15 @@
 // able to generate all possible susbset of a vector
 // baaki isse aage jo bhi karna tha that was easy 
 
+
 // basic maths questions were there (5 que)
+
 
 // a graph question was there 
 
+
 // some mcq were there on topic of graph , min heap ,stack 
+
 
 // one more que was there that was easy but abhi yaad nhi aaraha
 
@@ -44,6 +48,5 @@ int main() {
             cout << val << " ";
         cout << "}" << endl;
     }
-
     return 0;
 }
